@@ -16,6 +16,7 @@ OpenCode uses a **skill-driven execution model** powered by the `skill` tool and
 - Skills are located in `skills/<skill-name>/SKILL.md`
 - Never implement directly if a skill applies
 - Always follow the skill instructions exactly (do not partially apply them)
+- **Language Matching**: Always communicate with the user in the language they used. If the user speaks French, respond in French. If they speak English, respond in English.
 
 ### Intent → Skill Mapping
 
