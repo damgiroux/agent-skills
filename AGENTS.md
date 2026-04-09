@@ -21,13 +21,13 @@ OpenCode uses a **skill-driven execution model** powered by the `skill` tool and
 
 The agent should automatically map user intent to skills:
 
-- Feature / new functionality → `spec-driven-development`, then `incremental-implementation`, `test-driven-development`
-- Planning / breakdown → `planning-and-task-breakdown`
-- Bug / failure / unexpected behavior → `debugging-and-error-recovery`
-- Code review → `code-review-and-quality`
-- Refactoring / simplification → `code-simplification`
-- API or interface design → `api-and-interface-design`
-- UI work → `frontend-ui-engineering`
+- Feature / new functionality (conçois une fonctionnalité) → `spec-driven-development`, then `incremental-implementation`, `test-driven-development`
+- Planning / breakdown (Planifie cette modification) → `planning-and-task-breakdown`
+- Bug / failure / unexpected behavior (Corrige ce bug) → `debugging-and-error-recovery`
+- Code review (Examine ceci) → `code-review-and-quality`
+- Refactoring / simplification (simplifie le code) → `code-simplification`
+- API or interface design (conçois une API) → `api-and-interface-design`
+- UI work (travaille sur l'UI) → `frontend-ui-engineering`
 
 ### Lifecycle Mapping (Implicit Commands)
 

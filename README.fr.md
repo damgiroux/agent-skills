@@ -29,7 +29,7 @@ Les Agent Skills encodent les workflows, les barrières de qualité (quality gat
 | Simplifier le code | `/code-simplify` | La clarté avant l'ingéniosité |
 | Expédier en production | `/ship` | Plus rapide est plus sûr |
 
-Les Skills s'activent également automatiquement en fonction de ce que vous faites — concevoir une API déclenche `api-and-interface-design`, construire une UI déclenche `frontend-ui-engineering`, et ainsi de suite.
+Les Skills s'activent également automatiquement en fonction de ce que vous faites — concevoir une API déclenche `api-and-interface-design`, construire une UI déclenche `frontend-ui-engineering`, et ainsi de suite. Le français est également supporté (ex: "conçois une fonctionnalité", "Corrige ce bug", "simplifie le code", "conçois une API", "travaille sur l'UI").
 
 ---
 

@@ -33,7 +33,7 @@ Copiez le contenu du `SKILL.md` pertinent dans le system prompt de votre agent, 
 
 **Rules file :** Ajoutez le contenu du skill au rules file de votre projet (CLAUDE.md, .cursorrules, etc.).
 
-**Conversation :** Référencez le skill lors de vos instructions : "Suis le processus test-driven-development pour ce changement."
+**Conversation :** Référencez le skill lors de vos instructions : "Suis le processus test-driven-development pour ce changement" ou utilisez une commande naturelle comme "Corrige ce bug".
 
 ### 4. Utiliser le meta-skill pour la découverte
 

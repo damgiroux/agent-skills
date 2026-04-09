@@ -65,10 +65,10 @@ L'agent évalue chaque demande et la fait correspondre au skill approprié.
 
 Exemples :
 
-- "build a feature" → `incremental-implementation` + `test-driven-development`
-- "design a system" → `spec-driven-development`
-- "fix a bug" → `debugging-and-error-recovery`
-- "review this code" → `code-review-and-quality`
+- "build a feature" (ou "Implémente ceci") → `incremental-implementation` + `test-driven-development`
+- "design a system" (ou "conçois une fonctionnalité") → `spec-driven-development`
+- "fix a bug" (ou "Corrige ce bug") → `debugging-and-error-recovery`
+- "review this code" (ou "Examine ceci") → `code-review-and-quality`
 
 L'utilisateur n'a **pas** besoin de demander explicitement des skills.
 
@@ -155,13 +155,15 @@ Malgré cela, le workflow correspond étroitement à Claude Code en pratique.
 
 ## Workflow Recommandé
 
-Utilisez simplement le langage naturel :
-
-- "Design a feature"
-- "Plan this change"
-- "Implement this"
-- "Fix this bug"
-- "Review this"
+Utilisez simplement le langage naturel (anglais ou français) :
+- "Design a feature" / "conçois une fonctionnalité"
+- "Plan this change" / "Planifie cette modification"
+- "Implement this" / "Implémente ceci"
+- "Fix this bug" / "Corrige ce bug"
+- "Review this" / "Examine ceci"
+- "Refactor" / "simplifie le code"
+- "Design an API" / "conçois une API"
+- "UI work" / "travaille sur l'UI"
 
 L'agent sélectionnera et exécutera automatiquement les bons skills.
 
