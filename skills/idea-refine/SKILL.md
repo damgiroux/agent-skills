@@ -1,6 +1,6 @@
 ---
 name: idea-refine
-description: Refines ideas iteratively. Refine ideas through structured divergent and convergent thinking. Use "idea-refine" or "ideate" to trigger.
+description: Refines ideas iteratively. Refine ideas through structured divergent and convergent thinking. Use "idea-refine" or "ideate" to trigger. (Français : affine l'idée, itère sur le concept)
 ---
 
 # Idea Refine
@@ -23,9 +23,9 @@ bash /mnt/skills/user/idea-refine/scripts/idea-refine.sh
 ```
 
 **Trigger Phrases:**
-- "Help me refine this idea"
-- "Ideate on [concept]"
-- "Stress-test my plan"
+- "Help me refine this idea" (Français : "Aide-moi à affiner cette idée")
+- "Ideate on [concept]" (Français : "Réfléchis sur [concept]")
+- "Stress-test my plan" (Français : "Teste mon plan")
 
 ## Output
 
