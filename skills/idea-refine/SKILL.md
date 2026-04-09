@@ -1,6 +1,6 @@
 ---
 name: idea-refine
-description: Refines ideas iteratively. Refine ideas through structured divergent and convergent thinking. Use "idea-refine" or "ideate" to trigger. (Français : affine l'idée, itère sur le concept)
+description: "Refines ideas iteratively. Refine ideas through structured divergent and convergent thinking. Use \"idea-refine\" or \"ideate\" to trigger. (Français : affine l'idée, itère sur le concept)"
 ---
 
 # Idea Refine

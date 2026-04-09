@@ -1,6 +1,6 @@
 ---
 name: performance-optimization
-description: Optimizes application performance. Use when performance requirements exist, when you suspect performance regressions, or when Core Web Vitals or load times need improvement. Use when profiling reveals bottlenecks that need fixing. (Français : optimise la performance, améliore la vitesse)
+description: "Optimizes application performance. Use when performance requirements exist, when you suspect performance regressions, or when Core Web Vitals or load times need improvement. Use when profiling reveals bottlenecks that need fixing. (Français : optimise la performance, améliore la vitesse)"
 ---
 
 # Performance Optimization

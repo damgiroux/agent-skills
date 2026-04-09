@@ -1,6 +1,6 @@
 ---
 name: source-driven-development
-description: Grounds every implementation decision in official documentation. Use when you want authoritative, source-cited code free from outdated patterns. Use when building with any framework or library where correctness matters. (Français : utilise la documentation source, vérifie les sources)
+description: "Grounds every implementation decision in official documentation. Use when you want authoritative, source-cited code free from outdated patterns. Use when building with any framework or library where correctness matters. (Français : utilise la documentation source, vérifie les sources)"
 ---
 
 # Source-Driven Development
