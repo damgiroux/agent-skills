@@ -1,5 +1,7 @@
 # Using agent-skills with Gemini CLI
 
+This guide explains how to set up and use agent-skills with the Gemini CLI. ([Version française](gemini-cli-setup.fr.md))
+
 ## Setup
 
 ### Option 1: Install as Skills (Recommended)

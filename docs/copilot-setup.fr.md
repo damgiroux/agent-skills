@@ -1,5 +1,6 @@
 # Utilisation de agent-skills avec GitHub Copilot
 
+Ce guide explique comment intégrer agent-skills dans votre workflow GitHub Copilot. ([English version](copilot-setup.md))
 ## Configuration
 
 ### Instructions Copilot

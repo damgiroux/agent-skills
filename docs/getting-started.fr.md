@@ -1,6 +1,6 @@
 # Prise en main de agent-skills
 
-agent-skills fonctionne avec n'importe quel AI coding agent qui accepte des instructions Markdown. Ce guide couvre l'approche universelle. Pour une configuration spécifique à un outil, consultez les guides dédiés.
+agent-skills fonctionne avec n'importe quel AI coding agent qui accepte des instructions Markdown. Ce guide couvre l'approche universelle. Pour une configuration spécifique à un outil, consultez les guides dédiés. ([English version](getting-started.md))
 
 ## Fonctionnement des Skills
 

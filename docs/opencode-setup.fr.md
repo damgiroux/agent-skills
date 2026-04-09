@@ -1,6 +1,6 @@
 # Configuration de OpenCode
 
-Ce guide explique comment utiliser Agent Skills avec OpenCode d'une manière qui reflète étroitement l'expérience Claude Code (sélection automatique des skills, workflows pilotés par le cycle de vie et application stricte des processus).
+Ce guide explique comment utiliser Agent Skills avec OpenCode d'une manière qui reflète étroitement l'expérience Claude Code (sélection automatique des skills, workflows pilotés par le cycle de vie et application stricte des processus). ([English version](opencode-setup.md))
 
 ## Overview
 

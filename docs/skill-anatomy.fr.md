@@ -1,6 +1,6 @@
 # Anatomie d'un Skill
 
-Ce document décrit la structure et le format des fichiers de skill de agent-skills. Utilisez-le comme guide lors de la contribution de nouveaux skills ou pour comprendre les skills existants.
+Ce document décrit la structure et le format des fichiers de skill de agent-skills. Utilisez-le comme guide lors de la contribution de nouveaux skills ou pour comprendre les skills existants. ([English version](skill-anatomy.md))
 
 ## Emplacement des Fichiers
 

@@ -1,6 +1,6 @@
 # Agent Skills
 
-**Production-grade engineering skills for AI coding agents.**
+**Production-grade engineering skills for AI coding agents.** ([Version française](README.fr.md))
 
 Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development.
 

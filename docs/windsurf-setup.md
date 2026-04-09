@@ -1,5 +1,6 @@
 # Using agent-skills with Windsurf
 
+This guide covers the setup and usage of agent-skills within the Windsurf IDE. ([Version française](windsurf-setup.fr.md))
 ## Setup
 
 ### Project Rules

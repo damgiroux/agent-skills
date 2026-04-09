@@ -1,6 +1,6 @@
 # Agent Skills
 
-**Compétences d'ingénierie de qualité production pour les AI coding agents.**
+**Compétences d'ingénierie de qualité production pour les AI coding agents.** ([English version](README.md))
 
 Les Agent Skills encodent les workflows, les barrières de qualité (quality gates) et les meilleures pratiques que les ingénieurs seniors utilisent lors de la construction de logiciels. Celles-ci sont packagées de manière à ce que les agents AI les suivent de manière cohérente à chaque phase du développement.
 

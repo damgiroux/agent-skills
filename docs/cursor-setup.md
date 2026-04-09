@@ -1,5 +1,7 @@
 # Using agent-skills with Cursor
 
+This guide covers the integration of agent-skills into the Cursor editor. ([Version française](cursor-setup.fr.md))
+
 ## Setup
 
 ### Option 1: Rules Directory (Recommended)

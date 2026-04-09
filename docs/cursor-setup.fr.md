@@ -1,5 +1,7 @@
 # Utilisation de agent-skills avec Cursor
 
+Ce guide couvre l'intégration de agent-skills dans l'éditeur Cursor. ([English version](cursor-setup.md))
+
 ## Configuration
 
 ### Option 1 : Répertoire de Règles (Recommandé)
